@@ -16,7 +16,7 @@
   "author": "Spencer-Pimpa",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^4.2.6"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "electron-tooltip": "^1.1.5",
